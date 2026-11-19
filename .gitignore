@@ -1,0 +1,4 @@
+# Raw downloads and tools (rebuild with scripts/build-data.mjs)
+source-data/
+node_modules/
+scripts/node_modules/

@@ -1,0 +1,62 @@
+# Hand-written beginner examples for N5 words with no suitable sentence in the open data.
+# Format: word|reading|sentence with furigana as 漢字[よみ]|English
+私|わたくし|私[わたくし]は 田中[たなか]と 申[もう]します。|My name is Tanaka. (polite)
+九|く|毎晩[まいばん] 九時[くじ]に 寝[ね]ます。|I go to bed at nine every night.
+四|し|四月[しがつ]に 日本[にほん]へ 行[い]きます。|I'm going to Japan in April.
+七|しち|七時[しちじ]に 起[お]きます。|I get up at seven.
+十|とお|りんごを 十[とお] 買[か]いました。|I bought ten apples.
+二人|ふたり|二人[ふたり]で 映画[えいが]を 見[み]ました。|The two of us watched a movie.
+おととし|おととし|おととし 東京[とうきょう]に 来[き]ました。|I came to Tokyo the year before last.
+毎年|まいねん|毎年[まいねん] 夏[なつ]に 海[うみ]へ 行[い]きます。|Every year I go to the sea in summer.
+大勢|おおぜい|駅[えき]に 人[ひと]が 大勢[おおぜい] います。|There are a lot of people at the station.
+毎月|まいげつ|毎月[まいげつ] 本[ほん]を 三冊[さんさつ] 読[よ]みます。|I read three books every month.
+在る|ある|机[つくえ]の 上[うえ]に 本[ほん]が あります。|There is a book on the desk.
+入口|いりぐち|入口[いりぐち]は あちらです。|The entrance is over there.
+角|かど|あの 角[かど]を 右[みぎ]に 曲[ま]がって ください。|Please turn right at that corner.
+背|せい|兄[あに]は 背[せい]が 高[たか]いです。|My older brother is tall.
+伯父|おじさん|伯父[おじ]さんは 大阪[おおさか]に 住[す]んで います。|My uncle lives in Osaka.
+昨夜|ゆうべ|昨夜[ゆうべ]は よく 寝[ね]ました。|I slept well last night.
+九つ|ここのつ|箱[はこ]に りんごが 九[ここの]つ あります。|There are nine apples in the box.
+鶏肉|とりにく|晩[ばん]ご飯[はん]に 鶏肉[とりにく]を 食[た]べました。|I ate chicken for dinner.
+辛い|からい|この カレーは とても 辛[から]いです。|This curry is very spicy.
+曲る|まがる|次[つぎ]の 信号[しんごう]を 左[ひだり]に 曲[ま]がります。|I turn left at the next traffic light.
+片仮名|かたかな|名前[なまえ]を 片仮名[かたかな]で 書[か]いて ください。|Please write your name in katakana.
+平仮名|ひらがな|子供[こども]は 平仮名[ひらがな]を 習[なら]って います。|The child is learning hiragana.
+段々|だんだん|段々[だんだん] 寒[さむ]く なりました。|It has gradually got colder.
+一昨日|おととい|一昨日[おととい] 友達[ともだち]に 会[あ]いました。|I met a friend the day before yesterday.
+死ぬ|しぬ|水[みず]が ないと 花[はな]は 死[し]にます。|Flowers die without water.
+外|ほか|外[ほか]に 質問[しつもん]は ありますか。|Do you have any other questions?
+五日|いつか|五日[いつか]に 友達[ともだち]が 来[き]ます。|A friend is coming on the fifth.
+九日|ここのか|九日[ここのか]は 日曜日[にちようび]です。|The ninth is a Sunday.
+一日|ついたち|一日[ついたち]から 学校[がっこう]が 始[はじ]まります。|School starts on the first.
+十日|とおか|十日[とおか]に 試験[しけん]が あります。|There is an exam on the tenth.
+七日|なのか|七日[なのか]に 国[くに]へ 帰[かえ]ります。|I'm going back to my country on the seventh.
+一月|ひとつき|一月[ひとつき]に 一回[いっかい] 映画[えいが]を 見[み]ます。|I watch a movie once a month.
+二日|ふつか|二日[ふつか] 休[やす]みました。|I took two days off.
+三日|みっか|三日[みっか] 雨[あめ]が 降[ふ]りました。|It rained for three days.
+六日|むいか|六日[むいか]に 誕生日[たんじょうび]の パーティーを します。|I'm having a birthday party on the sixth.
+六つ|むっつ|卵[たまご]を 六[むっ]つ ください。|Six eggs, please.
+八日|ようか|八日[ようか]に 日本[にほん]へ 行[い]きます。|I'm going to Japan on the eighth.
+四日|よっか|四日[よっか] 東京[とうきょう]に います。|I'll be in Tokyo for four days.
+二十日|はつか|二十日[はつか]は 母[はは]の 誕生日[たんじょうび]です。|The twentieth is my mother's birthday.
+温い|ぬるい|この お茶[ちゃ]は ぬるいです。|This tea is lukewarm.
+葉書|はがき|友達[ともだち]に 葉書[はがき]を 書[か]きました。|I wrote a postcard to a friend.
+明後日|あさって|明後日[あさって] 京都[きょうと]へ 行[い]きます。|I'm going to Kyoto the day after tomorrow.
+二十歳|はたち|姉[あね]は 二十歳[はたち]です。|My older sister is twenty.
+字引|じびき|分[わ]からない 言葉[ことば]は 字引[じびき]で 調[しら]べます。|I look up words I don't know in a dictionary.
+丁度|ちょうど|今[いま] 丁度[ちょうど] 三時[さんじ]です。|It's exactly three o'clock now.
+朝御飯|あさごはん|毎朝[まいあさ] 朝御飯[あさごはん]を 食[た]べます。|I eat breakfast every morning.
+昼御飯|ひるごはん|昼御飯[ひるごはん]は 何[なに]を 食[た]べましたか。|What did you have for lunch?
+お～|お～|お茶[ちゃ]を どうぞ。|Please have some tea.
+～月|～がつ|三月[さんがつ]は まだ 寒[さむ]いです。|It's still cold in March.
+～中|～じゅう|一日中[いちにちじゅう] 雨[あめ]でした。|It rained all day.
+～がる|～がる|子供[こども]が 犬[いぬ]を 怖[こわ]がって います。|The child is afraid of the dog.
+～ころ|～ころ|七時[しちじ]ごろ 家[いえ]に 帰[かえ]ります。|I get home around seven.
+～さん|～さん|田中[たなか]さんは 先生[せんせい]です。|Mr. Tanaka is a teacher.
+～すぎ|～すぎ|今[いま] 九時[くじ]すぎです。|It's just after nine now.
+～ずつ|～ずつ|毎日[まいにち] 漢字[かんじ]を 五[いつ]つずつ 覚[おぼ]えます。|I learn five kanji each day.
+～だけ|～だけ|水[みず]だけ ください。|Just water, please.
+～たち|～たち|子供[こども]たちが 公園[こうえん]で 遊[あそ]んで います。|The children are playing in the park.
+～など|～など|りんごや バナナなどを 買[か]いました。|I bought apples, bananas and so on.
+～くらい|～くらい|駅[えき]まで 十分[じゅっぷん]くらい かかります。|It takes about ten minutes to the station.
+ラジオカセ|ラジオカセ|古[ふる]い ラジオカセで 音楽[おんがく]を 聞[き]きます。|I listen to music on an old radio cassette player.
